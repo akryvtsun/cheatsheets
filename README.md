@@ -10,3 +10,5 @@ Different helpful cheat sheets
 [Source] (http://maven.apache.org/plugins/maven-help-plugin/all-profiles-mojo.html)
 
 ## Git ##
+
+[IntelliJ IDEA online help] (https://www.jetbrains.com/idea/help)
