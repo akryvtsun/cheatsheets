@@ -16,7 +16,8 @@ Shift+Ctrl+Enter
 Start New Line [after current line]
 Shift+Enter
 
-Ctrl+Shift+Enter. Statement Completion
+Statement Completion
+Ctrl+Shift+Enter
 
 Move the current line of code
 Ctrl+Shift+Up
@@ -28,23 +29,53 @@ Ctrl+Shift+C
 Copy current class reference
 Ctrl+Alt+Shift+C
 
+IntelliJ IDEA can select more than one piece of code at a time. You can select/deselect any piece of code via Alt+J, or by clicking a code selection and pressing Shift+Alt+J.
+
+Reformat code
+Ctrl+Alt+L
+
+Auto-indent lines
+Ctrl+Alt+I
+
+Optimize imports
+Ctrl+Alt+O
+
+Start New Line Before Current
+Ctrl+Alt+Enter
+
+Expand or collapse a code block
+Ctrl+NumPad+
+Ctrl+NumPad-
+
+Surround with...
+Ctrl+Alt+T
+
+Reformat code Ctrl+Alt+L
+Auto-indent lines  Ctrl+Alt+I
+Optimize imports  Ctrl+Alt+O
+
+Insert Live Template or Ctrl+J
+
 ## Navigation ##
 
 Navigate between opened tabs
-Alt+Right Alt+Left
-
-IntelliJ IDEA can select more than one piece of code at a time. You can select/deselect any piece of code via Alt+J, or by clicking a code selection and pressing Shift+Alt+J.
+Alt+Right
+Alt+Left
 
 If you need to open a file in a particular tool window (or Finder/Explorer), you can do so via the Select In action by pressing Alt+F1
 
 Navigate to declaration
 Ctrl+B
+
 Navigate to type hierarchy
 Ctrl+H
-Show UML popup Ctrl+Alt+U
+
+Show UML popup
+Ctrl+Alt+U
 
 Quick Pop-ups are helpful for checking additional information related to the symbol at the caret. Below is a list of pop-ups you should know if you want to be more productive:
 Quick Pop-ups are available for symbols in the editor; however, they are also available for items in any other list via the same shortcuts.
+
 Action Shortcut
 Documentation Ctrl+Q
 Quick definition  Ctrl+Shift+I
@@ -52,27 +83,7 @@ Show usages Ctrl+Alt+F7
 Show implementation  Ctrl+Alt+B
 
 If you want to set custom options for the Find Usages algorithm, press Ctrl+Shift+Alt+F7, or click the first button on the right panel with search results.
-
 If what you're looking for is plain text, use Find in Path by pressing Ctrl+Shift+F.
-
-Reformat code Ctrl+Alt+L
-Auto-indent lines  Ctrl+Alt+I
-Optimize imports  Ctrl+Alt+O
-
-Toggle breakpoint  Ctrl+F8
-Step into F7
-Smart step into  Shift+F7
-Step over F8
-Step out Shift+F8
-Resume F9
-Evaluate expression  Alt+F8​
-
-
-Run Shift+F10
-Debug Shift+F9
-
-Start New Line Before Current
-Ctrl+Alt+Enter
 
 Next finding
 F3
@@ -83,17 +94,23 @@ Ctrl+B
 Navigate between open tabs
 Alt+Left, Alt+Right
 
-Expand or collapse a code block
-Ctrl+NumPad+, Ctrl+NumPad-
+## Running ##
 
-Surround with...
-Ctrl+Alt+T
+Toggle breakpoint
+Ctrl+F8
 
-Reformat code Ctrl+Alt+L
-Auto-indent lines  Ctrl+Alt+I
-Optimize imports  Ctrl+Alt+O
+Step into
+F7
 
-Insert Live Template or Ctrl+J
+Smart step into  Shift+F7
+
+Step over F8
+Step out Shift+F8
+Resume F9
+Evaluate expression  Alt+F8​
+
+Run Shift+F10
+Debug Shift+F9
 
 Highlight usages of a symbol
 Shift+Ctrl+F7
