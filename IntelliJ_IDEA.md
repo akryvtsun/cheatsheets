@@ -19,13 +19,16 @@ Shift+Enter
 Ctrl+Shift+Enter. Statement Completion
 
 Move the current line of code
-Ctrl+Shift+Up Ctrl+Shift+Down
+Ctrl+Shift+Up
+Ctrl+Shift+Down
 
 Copy current class path
 Ctrl+Shift+C
 
 Copy current class reference
 Ctrl+Alt+Shift+C
+
+## Navigation ##
 
 Navigate between opened tabs
 Alt+Right Alt+Left
@@ -91,7 +94,6 @@ Auto-indent lines  Ctrl+Alt+I
 Optimize imports  Ctrl+Alt+O
 
 Insert Live Template or Ctrl+J
-
 
 Highlight usages of a symbol
 Shift+Ctrl+F7
