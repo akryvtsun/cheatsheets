@@ -16,9 +16,6 @@ Shift+Ctrl+Enter
 Start New Line [after current line]
 Shift+Enter
 
-Statement Completion
-Ctrl+Shift+Enter
-
 Move the current line of code
 Ctrl+Shift+Up
 Ctrl+Shift+Down
@@ -31,15 +28,6 @@ Ctrl+Alt+Shift+C
 
 IntelliJ IDEA can select more than one piece of code at a time. You can select/deselect any piece of code via Alt+J, or by clicking a code selection and pressing Shift+Alt+J.
 
-Reformat code
-Ctrl+Alt+L
-
-Auto-indent lines
-Ctrl+Alt+I
-
-Optimize imports
-Ctrl+Alt+O
-
 Start New Line Before Current
 Ctrl+Alt+Enter
 
@@ -50,11 +38,23 @@ Ctrl+NumPad-
 Surround with...
 Ctrl+Alt+T
 
-Reformat code Ctrl+Alt+L
-Auto-indent lines  Ctrl+Alt+I
-Optimize imports  Ctrl+Alt+O
+Reformat code
+Ctrl+Alt+L
+
+Auto-indent lines
+Ctrl+Alt+I
+
+Optimize imports
+Ctrl+Alt+O
 
 Insert Live Template or Ctrl+J
+
+Multi-selection
+Alt+J
+Shift+Alt+J
+
+Enter into Column selection mode
+Shift+Alt+Ins
 
 ## Navigation ##
 
@@ -76,11 +76,17 @@ Ctrl+Alt+U
 Quick Pop-ups are helpful for checking additional information related to the symbol at the caret. Below is a list of pop-ups you should know if you want to be more productive:
 Quick Pop-ups are available for symbols in the editor; however, they are also available for items in any other list via the same shortcuts.
 
-Action Shortcut
-Documentation Ctrl+Q
-Quick definition  Ctrl+Shift+I
-Show usages Ctrl+Alt+F7
-Show implementation  Ctrl+Alt+B
+Documentation
+Ctrl+Q
+
+Quick definition
+Ctrl+Shift+I
+
+Show usages
+Ctrl+Alt+F7
+
+Show implementation
+Ctrl+Alt+B
 
 If you want to set custom options for the Find Usages algorithm, press Ctrl+Shift+Alt+F7, or click the first button on the right panel with search results.
 If what you're looking for is plain text, use Find in Path by pressing Ctrl+Shift+F.
@@ -91,9 +97,6 @@ F3
 Go to upper method in Superclass
 Ctrl+B
 
-Navigate between open tabs
-Alt+Left, Alt+Right
-
 ## Running ##
 
 Toggle breakpoint
@@ -102,24 +105,29 @@ Ctrl+F8
 Step into
 F7
 
-Smart step into  Shift+F7
+Smart step into
+Shift+F7
 
-Step over F8
-Step out Shift+F8
-Resume F9
-Evaluate expression  Alt+F8​
+Step over
+F8
 
-Run Shift+F10
-Debug Shift+F9
+Step out
+Shift+F8
+
+Resume
+F9
+
+Evaluate expression
+Alt+F8​
+
+Run
+Shift+F10
+
+Debug
+Shift+F9
 
 Highlight usages of a symbol
 Shift+Ctrl+F7
-
-Multi-selection
-Alt+J, Shift+Alt+J
-
-Enter into Column selection mode
-Shift+Alt+Ins
 
 Open file in explore
 Ctrl+click on file tab
@@ -150,12 +158,12 @@ Alt+F1, C
 Navigate to Declaration
 Ctrl+B
 
-Show UML popup
-Ctrl+Alt+U
-
 ## Quick popups ##
 Show usages
 Alt+Ctrl+F7
+
+Show UML popup
+Ctrl+Alt+U
 
 Navigete -> Implementation(s)
 Ctrl+Alt+B
