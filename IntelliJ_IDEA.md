@@ -6,10 +6,10 @@ Basic Completion
 <kbd>Ctrl</kbd>+<kbd>Space</kbd>
 
 Smart Completion
-Shift+Ctrl+Space
+<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Space</kbd>
 
 Complete current statement
-Shift+Ctrl+Enter
+<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Enter</kbd>
 
 ## Editing ##
 
@@ -41,11 +41,17 @@ Ctrl+Alt+T
 Reformat code
 Ctrl+Alt+L
 
-Auto-indent lines
+Reformat code for file with options
+Ctrl+Shift+Alt+L
+
+Auto-indent line(s)
 Ctrl+Alt+I
 
 Optimize imports
 Ctrl+Alt+O
+
+Toggle Case
+Ctrl+Shift+U
 
 Insert Live Template or Ctrl+J
 
@@ -55,6 +61,13 @@ Shift+Alt+J
 
 Enter into Column selection mode
 Shift+Alt+Ins
+
+New Scratch File
+Ctrl+Shift+Alt+Insert
+
+Regexps usage
+https://www.jetbrains.com/idea/help/regular-expression-syntax-reference.html
+https://www.jetbrains.com/idea/help/finding-and-replacing-text-in-file.html#example
 
 ## Navigation ##
 
@@ -96,6 +109,9 @@ F3
 
 Go to upper method in Superclass
 Ctrl+B
+
+Switcher
+https://www.jetbrains.com/idea/help/navigating-between-files-and-tool-windows.html
 
 ## Running ##
 
