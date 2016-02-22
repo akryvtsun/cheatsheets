@@ -1,4 +1,6 @@
 # IntelliJ IDEA
+CURRENT READING
+https://www.jetbrains.com/idea/help/tool-windows.html
 
 ## Completion ##
 
@@ -68,6 +70,39 @@ Ctrl+Shift+Alt+Insert
 Regexps usage
 https://www.jetbrains.com/idea/help/regular-expression-syntax-reference.html
 https://www.jetbrains.com/idea/help/finding-and-replacing-text-in-file.html#example
+
+To select text from the current caret position to the top/bottom of the screen:
+Ctrl+Shift+Page Up, Ctrl+Shift+Page Down.
+
+To select multiple words:
+Press Shift+Alt and double-click the left mouse button.
+
+Toggling between line and column selection modes
+Shift+Alt+Insert
+
+Copying the Path to a File
+Ctrl+Shift+C
+
+Copying the Reference to a Line or a Symbol
+Ctrl+Shift+Alt+C
+
+Pasting a Specific Entry from the Clipboard
+Ctrl+Shift+V
+
+Move Line Up or Code | Move Line Down
+Shift+Alt+Up or Shift+Alt+Down
+
+To redo an action
+Ctrl+Shift+Z
+
+Fold Code Block
+Ctrl+Shift+Period
+Remove Region command for that region
+Ctrl+Period
+https://www.jetbrains.com/idea/help/code-folding.html
+
+Surround With
+Ctrl+Alt+T
 
 ## Navigation ##
 
