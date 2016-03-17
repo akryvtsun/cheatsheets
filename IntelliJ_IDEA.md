@@ -106,6 +106,9 @@ Ctrl+Alt+T
 
 ## Navigation ##
 
+File | Project Structure
+Ctrl+Shift+Alt+S
+
 Navigate between opened tabs
 Alt+Right
 Alt+Left
@@ -147,6 +150,15 @@ Ctrl+B
 
 Switcher
 https://www.jetbrains.com/idea/help/navigating-between-files-and-tool-windows.html
+
+Hide All Tool Windows
+Ctrl+Shift+F12
+
+Jump to Last Tool Window
+F12
+
+Resize Tool Window
+Ctrl+Shift in combination with the corresponding arrow key
 
 ## Running ##
 
