@@ -104,6 +104,12 @@ https://www.jetbrains.com/idea/help/code-folding.html
 Surround With
 Ctrl+Alt+T
 
+Insert parameterized live template
+Ctrl+J
+
+Surround with live template
+Ctrl+Alt+J
+
 ## Navigation ##
 
 File | Project Structure
