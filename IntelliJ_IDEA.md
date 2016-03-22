@@ -110,6 +110,18 @@ Ctrl+J
 Surround with live template
 Ctrl+Alt+J
 
+Override methods
+Ctrl+O
+
+Code | Surround With
+Ctrl+Alt+T
+
+Code | Unwrap/Remove
+Ctrl+Shift+Delete
+
+Postfix Templates
+Tab or Ctrl+J
+
 ## Navigation ##
 
 File | Project Structure
