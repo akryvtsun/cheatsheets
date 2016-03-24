@@ -178,6 +178,13 @@ F12
 Resize Tool Window
 Ctrl+Shift in combination with the corresponding arrow key
 
+hierarchy of the class
+Ctrl+H
+
+call hierarchy (Ctrl+Alt+H)
+
+method hierarchy (Ctrl+Shift+H)
+
 ## Running ##
 
 Toggle breakpoint
